@@ -91,11 +91,9 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 Создан аккаунт в [GitLab](https://gitlab.com/igorsprint/devops-netology#)
 
-Создан аккаунт в [Bitbucket](https://bitbucket.org/netology_git/devops-netology/src)
-
 Вывод `git remote -v`
 
-![remotev](screenshots/gitlabremote.png)
+![remotev](screenshots/gitlabremote2.png)
 
 ## Задание 2. Теги
 
@@ -107,7 +105,21 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 1. Перейдите на страницу просмотра тегов в GitHab (и в других репозиториях) и посмотрите, чем отличаются созданные теги. 
     * в GitHub — https://github.com/YOUR_ACCOUNT/devops-netology/releases;
     * в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
-    * в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке. 
+    * в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке.
+  
+### Решение
+
+Теги запушены:
+
+![pushtag](screenshots/pushtag.png)
+
+Страница просмотра тегов в GitHub:
+
+![taghub](screenshots/tagshub.png)
+
+Страница просмотра тегов в GitLab:
+![taghub](screenshots/tagslab.png)
+
 
 ## Задание 3. Ветки 
 
