@@ -135,6 +135,26 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 1. Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network 
 и как изменится вывод команды `git log`.
 
+
+### Решение
+
+Находим хеш коммита с названием `Prepare to delete and move`:
+
+![hash](screenshots/hash.png)
+
+Переходим к коммиту, создаем новую ветку, пушим на GitHub:
+
+![hash](screenshots/fix.png)
+
+Визуализация схемы коммитов:
+
+![hash](screenshots/network.png)
+
+
+
+
+
+
 ## Задание 4. Упрощаем себе жизнь
 
 Попробуем поработь с Git при помощи визуального редактора. 
