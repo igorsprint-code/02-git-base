@@ -210,6 +210,12 @@ IDE PyCharm установлен, открыт проект, видны ветк
 
 ![PyCharm](screenshots/PyCharm4.png)
 
+Ссылки не репозитории:
+
+[GitLab](https://gitlab.com/igorsprint/devops-netology#)
+
+[Github](https://github.com/igorsprint-code/devops-netology)
+
 
 
 
