@@ -151,6 +151,23 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 ![hash](screenshots/network.png)
 
 
+Внесены изменения в README.md, изменения отпрвлены в репозиторий в ветку fix: 
+
+![branch](screenshots/branch.png)
+
+На гитхабе ветка и коммиты отображены:
+
+![branchhub](screenshots/branchhub.png)
+
+График в network не обновляется(:
+
+![branchhub](screenshots//network2.png)
+
+
+
+
+
+
 
 
 
