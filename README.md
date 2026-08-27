@@ -193,6 +193,37 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
  
 ----
 
+### Решение
+
+
+IDE PyCharm установлен, открыт проект, видны ветки:
+
+![PyCharm](screenshots/PyCharm.png)
+
+Добавляем в README строку 'new PyCharm line', делаем коммит и пушим:
+
+![PyCharm](screenshots/PyCharm2.png)
+
+
+Добавляем в README  строку 'second PyCharm line', делаем коммит и пушим, видим в ветке main на удаленном репозитории  новые коммиты:
+
+
+![PyCharm](screenshots/PyCharm4.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Правила приёма домашнего задания
 
 В личном кабинете отправлены ссылки на ваши репозитории.
