@@ -159,7 +159,7 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 ![branchhub](screenshots/branchhub.png)
 
-График в network не обновляется(:
+График в network не обновляется(возможно обновится позже):
 
 ![branchhub](screenshots//network2.png)
 
